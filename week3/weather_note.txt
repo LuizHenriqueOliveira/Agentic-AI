@@ -1,0 +1,4 @@
+Current Weather in São Paulo:
+Current: 22.8°C
+High: 26.7°C
+Low: 16.3°C
